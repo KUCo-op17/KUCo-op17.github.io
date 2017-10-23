@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kuco-op17.github.io/index.html</loc>
-    <lastmod>2017-09-17</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/2014-11-20_utile-city-01-22484x1589.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_479787_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_219905_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_112382_cc.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://kuco-op17.github.io/01_chicago.html</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +26,7 @@
   </url>
   <url>
     <loc>http://kuco-op17.github.io/03_denver.html</loc>
-    <lastmod>2017-09-17</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -44,7 +35,7 @@
   </url>
   <url>
     <loc>http://kuco-op17.github.io/04_kansas-city.html</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +74,7 @@
   </url>
   <url>
     <loc>http://kuco-op17.github.io/xx_about.html</loc>
-    <lastmod>2017-09-17</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -109,29 +100,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/contribute.html</loc>
-    <lastmod>2017-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/sphere-01.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/sphere-02.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/sphere-03.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/sphere-04.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/sphere-05.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://kuco-op17.github.io/02_los-angeles.html</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,5 +134,29 @@
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/chinatown%20metro.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/00_physical-space.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/01_human-space.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/02_digital-space.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/04_case-studies.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
