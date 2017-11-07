@@ -1,69 +1,73 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1508792497303">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1510075986253">
+  <folder name="assets">
+    <file name="dillion-automated-future.pdf" crc="3806513628" seo="true" mt="1510063739000"/>
+    <file name="emma-learning.pdf" crc="3878132395" seo="true" mt="1510063591000"/>
+    <file name="tanner-streets.pdf" crc="3759537985" seo="true" mt="1510063852000"/>
+    <file name="simmon-traffic.pdf" crc="37071658" seo="true" mt="1510063776000"/>
+    <file name="jake-flow.pdf" crc="3896512838" seo="true" mt="1510063616000"/>
+    <file name="tanner-travel.pdf" crc="4225236382" seo="true" mt="1510063877000"/>
+    <file name="simon-construction.pdf" crc="396168678" seo="true" mt="1510063807000"/>
+    <file name="jake-bank.pdf" crc="184660142" seo="true" mt="1510063651000"/>
+    <file name="pat.pdf" crc="4214541266" seo="true" mt="1510063906000"/>
+    <file name="dillion-culture.pdf" crc="3943476998" seo="true" mt="1510063701000"/>
+    <file name="emma-insta.pdf" crc="4012851514" seo="true" mt="1510063562000"/>
+    <file name="deliverable-proposal.pdf" crc="484762056" seo="true" mt="1508874304000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="454179208"/>
-    <file name="master_a-master.css" crc="315213824" ref="04_kansas-city:index:03_denver:02_los-angeles:01_chicago:xx_about:01_human-space:04_case-studies:00_physical-space:02_digital-space"/>
-    <file name="04_kansas-city.css" crc="3985017791" ref="04_kansas-city"/>
-    <file name="index.css" crc="3782713128" ref="index"/>
-    <file name="03_denver.css" crc="447366270" ref="03_denver"/>
-    <file name="02_los-angeles.css" crc="323727565" ref="02_los-angeles"/>
-    <file name="01_chicago.css" crc="4013112680" ref="01_chicago"/>
-    <file name="xx_about.css" crc="4157877441" ref="xx_about"/>
-    <file name="01_human-space.css" crc="199374358" ref="01_human-space"/>
-    <file name="04_case-studies.css" crc="199374358" ref="04_case-studies"/>
-    <file name="00_physical-space.css" crc="199374358" ref="00_physical-space"/>
-    <file name="02_digital-space.css" crc="199374358" ref="02_digital-space"/>
+    <file name="site_global.css" crc="4147773098"/>
+    <file name="master_a-master.css" crc="109532614" ref="04_kansas-city:index:03_denver:02_los-angeles:01_chicago:xx_about:obsolete-infrastructure:robotic-take-over:00_cities:01_case-studies:02_proposals"/>
+    <file name="04_kansas-city.css" crc="3841337204" ref="04_kansas-city"/>
+    <file name="index.css" crc="533926859" ref="index"/>
+    <file name="03_denver.css" crc="117886863" ref="03_denver"/>
+    <file name="02_los-angeles.css" crc="175272290" ref="02_los-angeles"/>
+    <file name="01_chicago.css" crc="4198726392" ref="01_chicago"/>
+    <file name="xx_about.css" crc="288839837" ref="xx_about"/>
+    <file name="obsolete-infrastructure.css" crc="3813806960" ref="obsolete-infrastructure"/>
+    <file name="robotic-take-over.css" crc="3758314680" ref="robotic-take-over"/>
+    <file name="00_cities.css" crc="3937355730" ref="00_cities"/>
+    <file name="01_case-studies.css" crc="174401980" ref="01_case-studies"/>
+    <file name="02_proposals.css" crc="4230448754" ref="02_proposals"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="museutils.js" crc="17924269" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="whatinput.js" crc="86476730" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="museconfig.js" crc="144853533" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="03_denver"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="webpro.js" crc="416662029" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="musewpdisclosure.js" crc="3809204180" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="museutils.js" crc="17924269" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="whatinput.js" crc="86476730" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="museconfig.js" crc="144853533" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="00_cities"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="webpro.js" crc="416662029" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
     <file name="form_process.php" crc="257545537" ref="index"/>
     <file name="form-u138.php" crc="3830909020" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
-    <file name="require.js" crc="3861931657" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_physical-space:01_human-space:02_digital-space:04_case-studies"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
+    <file name="require.js" crc="3861931657" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over"/>
   </folder>
   <folder name="images">
     <file name="2014-11-20_utile-city-01-22484x1589.jpg" crc="16398384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:xx_about"/>
+    <file name="blank.gif" crc="4208392903" ref="index:xx_about:00_cities:01_case-studies"/>
     <file name="ico_ham.svg" crc="496736174" ref="index"/>
     <file name="ico_ham_poster_u585.png" crc="11301426" ref="index"/>
     <file name="ico_ham_close.svg" crc="528877227" ref="index"/>
     <file name="ico_ham_close_poster_u524.png" crc="4203631480" ref="index"/>
-    <file name="img_4286.jpg" crc="429945489" seo="true" ref="01_chicago">
+    <file name="img_4286.jpg" crc="429945489" seo="true" ref="01_chicago:03_denver">
+      <caption webpage="03_denver" alt=""/>
       <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="img_4363-crop-u11501.jpg" crc="3812486684" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
-    </file>
-    <file name="pasted image 240x240.jpg" crc="4123720895" seo="true" ref="01_chicago:03_denver:xx_about">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="pasted image 240x240.jpg" crc="4123720895" seo="true" ref="xx_about">
+      <caption webpage="03_denver" alt=""/>
       <caption webpage="xx_about" alt=""/>
-      <caption webpage="03_denver" alt=""/>
-    </file>
-    <file name="2014-11-20_utile-city-01-2.jpg" crc="110176991" ref="03_denver">
-      <caption webpage="03_denver" alt=""/>
-    </file>
-    <file name="kc axo.jpg" crc="273830125" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
     </file>
     <file name="20170905_142137.jpg" crc="3840935859" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
     <file name="20170905_141603.jpg" crc="492118232" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="20170905_142930-crop-u22290.jpg" crc="4000974986" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
     <file name="20170905_145056.jpg" crc="4188892885" seo="true" ref="04_kansas-city">
@@ -75,13 +79,7 @@
     <file name="20170905_152357.jpg" crc="354988169" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="20170905_161943-crop-u22264.jpg" crc="4060738228" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
     <file name="20170905_153108.jpg" crc="373651650" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="20170912_150550-crop-u22323.jpg" crc="4113037277" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
     <file name="20170912_150453.jpg" crc="496277546" seo="true" ref="04_kansas-city">
@@ -114,13 +112,7 @@
     <file name="market 1.jpg" crc="4161492420" seo="true" ref="02_los-angeles">
       <caption webpage="02_los-angeles" alt=""/>
     </file>
-    <file name="venice graffiti-crop-u21674.jpg" crc="242525500" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
     <file name="the valley.jpg" crc="3801070800" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="wings-crop-u21630.jpg" crc="4101712873" seo="true" ref="02_los-angeles">
       <caption webpage="02_los-angeles" alt=""/>
     </file>
     <file name="bates motel.jpg" crc="3890517365" seo="true" ref="02_los-angeles">
@@ -135,15 +127,211 @@
     <file name="chinatown metro.jpg" crc="461412878" seo="true" ref="02_los-angeles">
       <caption webpage="02_los-angeles" alt=""/>
     </file>
+    <file name="a613dccd8cc882e329e10d7c1ff9a74a.jpg" crc="314913928" seo="true" ref="00_cities">
+      <caption webpage="00_cities" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="4274532359" seo="true" ref="00_cities:01_chicago:02_los-angeles:03_denver:04_kansas-city">
+      <caption webpage="00_cities" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago-river-illinois-buttonu33231-r-fr.jpg" crc="3988906109" ref="00_cities"/>
+    <file name="city-of-la-final-2-buttonu33235-r-fr.jpg" crc="3934919970" ref="00_cities"/>
+    <file name="alumni gathering in denver colorado university advancement-buttonu33233-r-fr.jpg" crc="3791395178" ref="00_cities"/>
+    <file name="kansascity-buttonu33229-r-fr.jpg" crc="4230642127" ref="00_cities"/>
+    <file name="noun_942652_cc.png" crc="332472030" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_197559_cc-crop-u28547.png" crc="454718222" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_55060_cc.png" crc="316752998" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_22250_cc-u28517.png" crc="4123713969" ref="01_case-studies"/>
+    <file name="noun_53123_cc-u28647.png" crc="466827332" ref="01_case-studies"/>
+    <file name="noun_1119910_cc.png" crc="3939875076" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_476744-u28727.png" crc="276320282" ref="01_case-studies"/>
+    <file name="noun_476755-u28737.png" crc="4174897290" ref="01_case-studies"/>
+    <file name="noun_243354_cc.png" crc="409053814" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1187315_cc.png" crc="3974674104" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1026302_cc.png" crc="3794540811" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1371745_cc.png" crc="269068020" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_960093_cc.png" crc="10453650" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1285365_cc.png" crc="282953096" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1358728_cc.png" crc="517754761" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_295278_cc-crop-u32434.png" crc="11692110" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1018435_cc.png" crc="296665130" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_79843_cc.png" crc="3831605375" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
+    </file>
+    <file name="noun_1157156230x291.png" crc="126515292" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1099521_cc246x246.png" crc="4059209253" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1174876_cc-crop-u38675.png" crc="21893076" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1158063_cc-crop-u38682.png" crc="339832067" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_530878_cc287x287.png" crc="174491120" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1143696_cc-crop-u38742.png" crc="3896826545" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1155914_cc-crop-u38780.png" crc="4017986450" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="noun_1154838_cc-crop-u38785.png" crc="4168778166" seo="true" ref="02_proposals">
+      <caption webpage="02_proposals" alt=""/>
+    </file>
+    <file name="oxol_archigram.jpg" crc="3782832840" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="cindy-frewen-300x298.jpg" crc="3810847128" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="pr_16791.jpg" crc="4232820545" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="img_4363-crop-u37995.jpg" crc="3812486684" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="noun_1157156.png" crc="3982200263" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="noun_1099521_cc.png" crc="289525828" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="pointer_right_b.png" crc="3926956963" seo="true" ref="01_chicago:02_los-angeles:03_denver:04_kansas-city">
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="graveyard.png" crc="337182849" seo="true" ref="obsolete-infrastructure">
+      <caption webpage="obsolete-infrastructure" alt=""/>
+    </file>
+    <file name="wifi hotspot.png" crc="288258235" seo="true" ref="obsolete-infrastructure">
+      <caption webpage="obsolete-infrastructure" alt=""/>
+    </file>
+    <file name="phone graphic.png" crc="4048318506" seo="true" ref="obsolete-infrastructure">
+      <caption webpage="obsolete-infrastructure" alt=""/>
+    </file>
+    <file name="array of things.png" crc="3860684751" seo="true" ref="obsolete-infrastructure">
+      <caption webpage="obsolete-infrastructure" alt=""/>
+    </file>
+    <file name="among robots wide.jpg" crc="432447691" seo="true" ref="robotic-take-over">
+      <caption webpage="robotic-take-over" alt=""/>
+    </file>
+    <file name="robo man normal.png" crc="274184152" seo="true" ref="robotic-take-over">
+      <caption webpage="robotic-take-over" alt=""/>
+      <caption webpage="robotic-take-over" alt=""/>
+      <caption webpage="robotic-take-over" alt=""/>
+      <caption webpage="robotic-take-over" alt=""/>
+    </file>
+    <file name="mini among robots.png" crc="3992641121" seo="true" ref="robotic-take-over">
+      <caption webpage="robotic-take-over" alt=""/>
+    </file>
+    <file name="city green.png" crc="403728097" seo="true" ref="robotic-take-over">
+      <caption webpage="robotic-take-over" alt=""/>
+    </file>
+    <file name="670710_6_378d_peter-cook-archigram-instant-city-visits.jpg" crc="231473878" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="rjr_headshot_(1)-crop-u34891.jpg" crc="4158372128" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="person_grey_192x192-crop-u34905.png" crc="3871534541" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="noun_1174876_cc-crop-u34932.png" crc="3933094157" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="noun_1158063_cc-crop-u34929.png" crc="4291020284" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="venice graffiti-crop-u37053.jpg" crc="242525500" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="wings-crop-u37006.jpg" crc="4101712873" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="558c509fb491d.jpg" crc="147996897" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="person_grey_192x192-crop-u35253.png" crc="3871534541" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="person_grey_192x192-crop-u35247.png" crc="3871534541" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="noun_530878_cc.png" crc="201102832" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="noun_1143696_cc-crop-u35188.png" crc="291502871" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="c214c43cd5485c47868cf2326fcb61b5-crop-u35524.jpg" crc="4124035486" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="person_grey_192x192-crop-u35483.png" crc="3871534541" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="person_grey_192x192-crop-u35473.png" crc="3871534541" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="20170905_142930-crop-u37784.jpg" crc="4000974986" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="noun_1155914_cc-crop-u35537.png" crc="4292654849" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="noun_1154838_cc-crop-u35531.png" crc="3983761034" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="20170905_161943-crop-u37812.jpg" crc="4060738228" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
+    <file name="20170912_150550.jpg" crc="3923023444" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="180437546" seo="true" mt="1508792423398" redirect="true"/>
-  <file name="01_chicago.html" crc="3972794437" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="03_denver.html" crc="3943083572" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="04_kansas-city.html" crc="4167200863" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="xx_about.html" crc="4278164977" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="02_los-angeles.html" crc="356697547" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="00_physical-space.html" crc="3924759494" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="01_human-space.html" crc="4089994169" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="02_digital-space.html" crc="31019957" seo="true" mt="1508792420454" redirect="true"/>
-  <file name="04_case-studies.html" crc="4283467523" seo="true" mt="1508792420454" redirect="true"/>
+  <file name="index.html" crc="3973835542" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="01_chicago.html" crc="402155837" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="03_denver.html" crc="209378898" seo="true" mt="1510073656809" redirect="true"/>
+  <file name="04_kansas-city.html" crc="462120259" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="xx_about.html" crc="198955305" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="02_los-angeles.html" crc="4121888114" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="00_cities.html" crc="4005672399" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="01_case-studies.html" crc="3889725020" seo="true" mt="1510075850618" redirect="true"/>
+  <file name="02_proposals.html" crc="234224589" seo="true" mt="1510075359028" redirect="true"/>
+  <file name="obsolete-infrastructure.html" crc="3930616804" seo="true" mt="1510073305685" redirect="true"/>
+  <file name="robotic-take-over.html" crc="4148466221" seo="true" mt="1510073305685" redirect="true"/>
 </manifest>
