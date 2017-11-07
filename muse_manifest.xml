@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1510087420268">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1510088120337">
   <folder name="assets">
     <file name="dillion-automated-future.pdf" crc="3806513628" seo="true" mt="1510063739000"/>
     <file name="emma-learning.pdf" crc="3878132395" seo="true" mt="1510063591000"/>
@@ -15,7 +15,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4147773098"/>
-    <file name="master_a-master.css" crc="109532614" ref="04_kansas-city:index:03_denver:02_los-angeles:01_chicago:xx_about:obsolete-infrastructure:robotic-take-over:00_cities:01_case-studies:02_proposals:max"/>
+    <file name="master_a-master.css" crc="481608102" ref="04_kansas-city:index:03_denver:02_los-angeles:01_chicago:xx_about:obsolete-infrastructure:robotic-take-over:00_cities:01_case-studies:02_proposals:max"/>
     <file name="04_kansas-city.css" crc="255716570" ref="04_kansas-city"/>
     <file name="index.css" crc="533926859" ref="index"/>
     <file name="03_denver.css" crc="381763386" ref="03_denver"/>
@@ -39,10 +39,10 @@
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
     <file name="webpro.js" crc="416662029" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
     <file name="musewpdisclosure.js" crc="3809204180" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u138.php" crc="3830909020" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index:02_proposals"/>
+    <file name="form_throttle.php" crc="22190333" ref="index:02_proposals"/>
+    <file name="form_process.php" crc="257545537" ref="index:02_proposals"/>
+    <file name="form-u138.php" crc="3830909020" ref="index:02_proposals"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
     <file name="require.js" crc="3861931657" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
@@ -51,11 +51,11 @@
     <file name="2014-11-20_utile-city-01-22484x1589.jpg" crc="16398384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:xx_about:00_cities:01_case-studies"/>
-    <file name="ico_ham.svg" crc="496736174" ref="index"/>
-    <file name="ico_ham_poster_u585.png" crc="11301426" ref="index"/>
-    <file name="ico_ham_close.svg" crc="528877227" ref="index"/>
-    <file name="ico_ham_close_poster_u524.png" crc="4203631480" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:xx_about:00_cities:01_case-studies:02_proposals"/>
+    <file name="ico_ham.svg" crc="496736174" ref="index:02_proposals"/>
+    <file name="ico_ham_poster_u585.png" crc="11301426" ref="index:02_proposals"/>
+    <file name="ico_ham_close.svg" crc="528877227" ref="index:02_proposals"/>
+    <file name="ico_ham_close_poster_u524.png" crc="4203631480" ref="index:02_proposals"/>
     <file name="img_4286.jpg" crc="429945489" seo="true" ref="01_chicago">
       <caption webpage="03_denver" alt=""/>
       <caption webpage="01_chicago" alt=""/>
@@ -392,7 +392,7 @@
   <file name="02_los-angeles.html" crc="199692130" seo="true" mt="1510086168112" redirect="true"/>
   <file name="00_cities.html" crc="4005374898" seo="true" mt="1510076733958" redirect="true"/>
   <file name="01_case-studies.html" crc="13755830" seo="true" mt="1510076883733" redirect="true"/>
-  <file name="02_proposals.html" crc="196708690" seo="true" mt="1510084094905" redirect="true"/>
+  <file name="02_proposals.html" crc="468630239" seo="true" mt="1510088104394" redirect="true"/>
   <file name="obsolete-infrastructure.html" crc="3778815847" seo="true" mt="1510076733958" redirect="true"/>
   <file name="robotic-take-over.html" crc="4128517050" seo="true" mt="1510076733958" redirect="true"/>
   <file name="max.html" crc="3947842944" seo="true" mt="1510084060336" redirect="true"/>
