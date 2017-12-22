@@ -2,94 +2,385 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kuco-op17.github.io/index.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/2014-11-20_utile-city-01-22484x1589.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/noun_1052740_cc-crop-u44459.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43578.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43620.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43662.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43704.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u43788.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/problem%20solving%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/problem%20solving.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/community%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6335_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_155937_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_155937.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/public-transport-beautification_1-crop-u44910.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/public-transport-beautification-crop-u45030.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/robotic-take-over.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/04_kansas-city.html</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/among%20robots%20wide.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/vectors-black_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/robo%20man%20normal.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%2070x294.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/mini%20among%20robots.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/kansas-city-scout-overlooking-kcmo-opt.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/city%20green.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/20170905_152357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_161943-crop-u35579.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_153108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/pvn-nva_kc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%20417x46986x136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%20417x469.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/pic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/kc%20slides_page_6.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/obsolete-infrastructure.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/03_denver.html</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/graveyard.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/vectors-black_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/wifi%20hotspot.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/denver-skyline.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/phone%20graphic.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/img_6363.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/array%20of%20things.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/img_6406.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/pvn-nva_dv.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/streets-crop-u35255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6400-crop-u35358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6406-crop-u35364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6412-crop-u35367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/denver_page_6.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/max.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/02_los-angeles.html</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/among%20robots%20wide-crop-u39627.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/vectors-black_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/future-20of-20cars-20redesign-20our-20cities-crop-u39649.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/olenka-kotyk-15378.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/4188-crop-u39672.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/wings-crop-u33594.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/45100312-crop-u39708.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/bates%20motel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chicago_terrain_lines.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/the%20valley.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/street%20one.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pvn-nva_la.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/street%20two.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/transportation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/street%202222.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/person.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/street%203%20b.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/education.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/street%20three%20a.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/analog.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/graph.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/indistry.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/graappphh.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/la%20slides_page_6.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/kc-interventions.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_142137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_141603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_142930-crop-u35682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_145056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170905_144924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170912_150550-crop-u35702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/20170912_150453.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/denver-interventions.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/ez10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6461.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_6432.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/la-interventions.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/berlin%20wall%20project.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/cupcake%20atm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/market%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/venice%20graffiti-crop-u33837.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/car%20sculpture.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/fruit%20stand.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chinatown%20metro.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/chicago-interventions.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/img_4286.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/02_data.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/data%20slides_page_11.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/03_final.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/poster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_1387071_cc-crop-u30962.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_1205109_cc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_1387071_cc-crop-u31003.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_555533_cc-crop-u31041.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://kuco-op17.github.io/01_case-studies.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -99,16 +390,28 @@
       <image:loc>http://kuco-op17.github.io/images/noun_197559_cc-crop-u28547.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_55060_cc.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/noun_55060_cc-crop-u28491.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_22250_cc-u28517.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_53123_cc-u28647.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_476744-u28727-crop-u29832.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/noun_476755-u28737.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/noun_1119910_cc.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_243354_cc.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/noun_1187315_cc-crop-u29941.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1187315_cc.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/noun_243354_cc.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/noun_1026302_cc.png</image:loc>
@@ -136,58 +439,40 @@
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/00_cities.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/00_city-pages.html</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/a613dccd8cc882e329e10d7c1ff9a74a.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/vectors-black_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/capture.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/02_proposals.html</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1157156230x291.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/img_6406-crop-u37476.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1099521_cc246x246.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/gabriel-santiago-19756-crop-u37490.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1174876_cc-crop-u38675.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/transportation-black.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1158063_cc-crop-u38682.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/events-black.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_530878_cc287x287.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pursuing-interests-black.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1143696_cc-crop-u38742.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/density-black.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1155914_cc-crop-u38780.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1154838_cc-crop-u38785.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1174870_cc.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/community-black_1.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://kuco-op17.github.io/xx_about.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pasted%20image%20240x240.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/jake%20portrait%20(1).jpg</image:loc>
     </image:image>
@@ -206,259 +491,154 @@
     <image:image>
       <image:loc>http://kuco-op17.github.io/images/emma%20portrait.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/04_kansas-city.html</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_142137.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_141603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_145056.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_144924.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_152357.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_153108.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170912_150453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pointer_right_b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/c214c43cd5485c47868cf2326fcb61b5-crop-u35524.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/person_grey_192x192-crop-u35473.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_142930-crop-u37784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1155914_cc-crop-u35537.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1154838_cc-crop-u35531.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170905_161943-crop-u37812.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/20170912_150550.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/rashid_06017-crop-u35483.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(4).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(5).jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/02_los-angeles.html</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/berlin%20wall%20project.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/cupcake%20atm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/market%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/the%20valley.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/bates%20motel.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/car%20sculpture.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/fruit%20stand.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chinatown%20metro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pointer_right_b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/670710_6_378d_peter-cook-archigram-instant-city-visits.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/rjr_headshot_(1)-crop-u34891.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/person_grey_192x192-crop-u34905.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1174876_cc-crop-u34932.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1158063_cc-crop-u34929.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/venice%20graffiti-crop-u37053.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/wings-crop-u37006.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(2).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(3).jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%20240x240.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://kuco-op17.github.io/01_chicago.html</loc>
-    <lastmod>2017-11-07</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/img_4286.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/collage%20of%20madison%20and%20state%20eod.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/oxol_archigram.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/img_4363-crop-u11501.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/cindy-frewen-300x298.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pvn-nva_chi-1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pr_16791.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/vectors-black_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/img_4363-crop-u37995.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%20417x469127x143.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1157156.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/pasted%20image%2070x294.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1099521_cc.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pointer_right_b.png</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart.jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(1).jpg</image:loc>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kuco-op17.github.io/images/chicago%20slides_page_9.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/03_denver.html</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/pointer_right_b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/558c509fb491d.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/person_grey_192x192-crop-u35253.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_530878_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/noun_1143696_cc-crop-u35188.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(6).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kuco-op17.github.io/images/chart%20(7).jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/assets/pat.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/jake-banking.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/emma-insta.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/pat-media.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/dillion-culture.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/chicago-slides.pdf</loc>
+    <lastmod>2017-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/tanner-travel.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/simon--construction.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/jake-bank.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/max-automation.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/simon-construction.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/tanner-apps.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/tanner-streets.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/jake-traffic.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/jake-flow.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/assets/simmon-traffic.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://kuco-op17.github.io/assets/deliverable-proposal.pdf</loc>
-    <lastmod>2017-10-24</lastmod>
+    <loc>http://kuco-op17.github.io/assets/simon-traffic.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kuco-op17.github.io/assets/emma-learning.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kuco-op17.github.io/assets/dillion-automated-future.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
+    <loc>http://kuco-op17.github.io/assets/tanner-complete-streets.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/dillon-automated.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/max-infrastructure.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/streets.pdf</loc>
+    <lastmod>2017-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/final-presentation--living-city-.pdf</loc>
+    <lastmod>2017-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/dillon-culture.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kuco-op17.github.io/assets/emma-insta.pdf</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

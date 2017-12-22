@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 931.522 931.522">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #1a1818;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 12px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #1a1818;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <title>Density-Black</title>
+  <g id="Content_1" data-name="Content 1">
+    <path class="cls-1" d="M354.588,939.13c0-230.365,33.96-341.583-132.1-341.583h0c-102.556,0-112.537,76.715-113.975,117.246l-8.381-19.787C153.3,830.692,267.984,909.394,354.588,939.13" transform="translate(-47.453 -45.98)"/>
+    <path class="cls-1" d="M665.347,939.13c0-230.365-33.96-341.583,132.1-341.583h0c102.556,0,112.537,76.715,113.975,117.246l8.381-19.787C866.639,830.692,751.952,909.394,665.347,939.13" transform="translate(-47.453 -45.98)"/>
+    <rect class="cls-1" x="153.296" y="409.85" width="159.744" height="159.744" rx="79.872" ry="79.872" transform="translate(-304.007 676.911) rotate(-90)"/>
+    <rect class="cls-1" x="711.271" y="409.85" width="159.744" height="159.744" rx="79.872" ry="79.872" transform="translate(253.967 1234.885) rotate(-90)"/>
+    <path class="cls-1" d="M354.588,952.336" transform="translate(-47.453 -45.98)"/>
+    <rect class="cls-1" x="406.116" y="329.613" width="199.68" height="199.68" rx="99.84" ry="99.84" transform="translate(29.05 889.429) rotate(-90)"/>
+    <path class="cls-2" d="M513.214,966.381h0c-47.624,0-140.558-20.966-174.463-33.121l.188-195.073A173.154,173.154,0,0,1,512.094,565.033h0A173.154,173.154,0,0,1,685.249,738.187V929.54C669.723,939.13,573.538,967.5,513.214,966.381Z" transform="translate(-47.453 -45.98)"/>
+  </g>
+  <g id="Content_2" data-name="Content 2">
+    <circle class="cls-3" cx="465.761" cy="465.761" r="455.761"/>
+  </g>
+</svg>

@@ -1,90 +1,208 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1510088120337">
-  <folder name="assets">
-    <file name="dillion-automated-future.pdf" crc="3806513628" seo="true" mt="1510063739000"/>
-    <file name="emma-learning.pdf" crc="3878132395" seo="true" mt="1510063591000"/>
-    <file name="tanner-streets.pdf" crc="3759537985" seo="true" mt="1510063852000"/>
-    <file name="simmon-traffic.pdf" crc="37071658" seo="true" mt="1510063776000"/>
-    <file name="jake-flow.pdf" crc="3896512838" seo="true" mt="1510063616000"/>
-    <file name="tanner-travel.pdf" crc="4225236382" seo="true" mt="1510063877000"/>
-    <file name="simon-construction.pdf" crc="396168678" seo="true" mt="1510063807000"/>
-    <file name="jake-bank.pdf" crc="184660142" seo="true" mt="1510063651000"/>
-    <file name="pat.pdf" crc="4214541266" seo="true" mt="1510063906000"/>
-    <file name="dillion-culture.pdf" crc="3943476998" seo="true" mt="1510063701000"/>
-    <file name="emma-insta.pdf" crc="4012851514" seo="true" mt="1510063562000"/>
-    <file name="deliverable-proposal.pdf" crc="484762056" seo="true" mt="1508874304000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kuco-op17.github.io" resolutions="1x" timestamp="1513985416565">
   <folder name="css">
-    <file name="site_global.css" crc="4147773098"/>
-    <file name="master_a-master.css" crc="481608102" ref="04_kansas-city:index:03_denver:02_los-angeles:01_chicago:xx_about:obsolete-infrastructure:robotic-take-over:00_cities:01_case-studies:02_proposals:max"/>
-    <file name="04_kansas-city.css" crc="255716570" ref="04_kansas-city"/>
-    <file name="index.css" crc="533926859" ref="index"/>
-    <file name="03_denver.css" crc="381763386" ref="03_denver"/>
-    <file name="02_los-angeles.css" crc="40963578" ref="02_los-angeles"/>
-    <file name="01_chicago.css" crc="4129483079" ref="01_chicago"/>
-    <file name="xx_about.css" crc="288839837" ref="xx_about"/>
-    <file name="obsolete-infrastructure.css" crc="3813806960" ref="obsolete-infrastructure"/>
-    <file name="robotic-take-over.css" crc="3758314680" ref="robotic-take-over"/>
-    <file name="00_cities.css" crc="3937355730" ref="00_cities"/>
-    <file name="01_case-studies.css" crc="4238218991" ref="01_case-studies"/>
-    <file name="02_proposals.css" crc="157799442" ref="02_proposals"/>
-    <file name="max.css" crc="3920604846" ref="max"/>
+    <file name="site_global.css" crc="3961048347"/>
+    <file name="master_a-master.css" crc="383889977" ref="index:04_kansas-city:chicago-interventions:01_chicago:la-interventions:xx_about:denver-interventions:00_city-pages:kc-interventions:01_case-studies:02_los-angeles:03_final:03_denver:02_data"/>
+    <file name="index.css" crc="79109217" ref="index"/>
+    <file name="04_kansas-city.css" crc="372555007" ref="04_kansas-city"/>
+    <file name="chicago-interventions.css" crc="4002126070" ref="chicago-interventions"/>
+    <file name="01_chicago.css" crc="4082956185" ref="01_chicago"/>
+    <file name="la-interventions.css" crc="3819075797" ref="la-interventions"/>
+    <file name="xx_about.css" crc="4211700253" ref="xx_about"/>
+    <file name="denver-interventions.css" crc="245726681" ref="denver-interventions"/>
+    <file name="00_city-pages.css" crc="395196091" ref="00_city-pages"/>
+    <file name="kc-interventions.css" crc="250834148" ref="kc-interventions"/>
+    <file name="01_case-studies.css" crc="506587351" ref="01_case-studies"/>
+    <file name="02_los-angeles.css" crc="248826708" ref="02_los-angeles"/>
+    <file name="03_final.css" crc="103847634" ref="03_final"/>
+    <file name="03_denver.css" crc="65576585" ref="03_denver"/>
+    <file name="02_data.css" crc="357940693" ref="02_data"/>
+  </folder>
+  <folder name="assets">
+    <file name="final-presentation--living-city-.pdf" crc="339837762" seo="true" mt="1513873178000"/>
+    <file name="chicago-slides.pdf" crc="149981547" seo="true" mt="1513893195000"/>
+    <file name="streets.pdf" crc="4175358411" seo="true" mt="1512503178000"/>
+    <file name="max-infrastructure.pdf" crc="67439473" seo="true" mt="1513980301000"/>
+    <file name="dillon-automated.pdf" crc="4210457480" seo="true" mt="1513980130000"/>
+    <file name="tanner-complete-streets.pdf" crc="3930796131" seo="true" mt="1513980228000"/>
+    <file name="emma-learning.pdf" crc="4063158155" seo="true" mt="1513979998000"/>
+    <file name="simon-traffic.pdf" crc="4193859018" seo="true" mt="1513980152000"/>
+    <file name="jake-traffic.pdf" crc="3956595698" seo="true" mt="1513980022000"/>
+    <file name="tanner-apps.pdf" crc="3917673184" seo="true" mt="1513980258000"/>
+    <file name="max-automation.pdf" crc="3952515987" seo="true" mt="1513980323000"/>
+    <file name="simon--construction.pdf" crc="3907400755" seo="true" mt="1513980185000"/>
+    <file name="jake-banking.pdf" crc="4290400729" seo="true" mt="1513980050000"/>
+    <file name="pat-media.pdf" crc="4019794194" seo="true" mt="1513980338000"/>
+    <file name="dillon-culture.pdf" crc="491674566" seo="true" mt="1513980086000"/>
+    <file name="emma-insta.pdf" crc="3805664992" seo="true" mt="1513979976000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="museutils.js" crc="17924269" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="whatinput.js" crc="86476730" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="museconfig.js" crc="144853533" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="00_cities"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="webpro.js" crc="416662029" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="musewpdisclosure.js" crc="3809204180" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="form_check.php" crc="4110044762" ref="index:02_proposals"/>
-    <file name="form_throttle.php" crc="22190333" ref="index:02_proposals"/>
-    <file name="form_process.php" crc="257545537" ref="index:02_proposals"/>
-    <file name="form-u138.php" crc="3830909020" ref="index:02_proposals"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
-    <file name="require.js" crc="3861931657" ref="index:01_chicago:03_denver:04_kansas-city:xx_about:02_los-angeles:00_cities:01_case-studies:02_proposals:obsolete-infrastructure:robotic-take-over:max"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="museutils.js" crc="3803043152" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="whatinput.js" crc="86476730" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="webpro.js" crc="242022427" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:01_chicago:02_data:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:01_chicago:02_data:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:01_chicago:02_data:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="require.js" crc="4157109226" ref="index:01_chicago:xx_about:00_city-pages:01_case-studies:03_final:02_data:chicago-interventions:la-interventions:denver-interventions:kc-interventions:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="00_city-pages"/>
   </folder>
   <folder name="images">
-    <file name="2014-11-20_utile-city-01-22484x1589.jpg" crc="16398384" seo="true" ref="index">
+    <file name="ico_ham.svg" crc="496736174" ref="index"/>
+    <file name="ico_ham_poster_u585.png" crc="11301426" ref="index"/>
+    <file name="ico_ham_close.svg" crc="528877227" ref="index"/>
+    <file name="ico_ham_close_poster_u524.png" crc="4203631480" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:01_chicago:xx_about:00_city-pages:02_data:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="noun_1052740_cc-crop-u44459.png" crc="3849149373" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:xx_about:00_cities:01_case-studies:02_proposals"/>
-    <file name="ico_ham.svg" crc="496736174" ref="index:02_proposals"/>
-    <file name="ico_ham_poster_u585.png" crc="11301426" ref="index:02_proposals"/>
-    <file name="ico_ham_close.svg" crc="528877227" ref="index:02_proposals"/>
-    <file name="ico_ham_close_poster_u524.png" crc="4203631480" ref="index:02_proposals"/>
-    <file name="img_4286.jpg" crc="429945489" seo="true" ref="01_chicago">
-      <caption webpage="03_denver" alt=""/>
+    <file name="streets-crop-u43534.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43578.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43620.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43662.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43704.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43746.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets-crop-u43788.jpg" crc="4252735928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:01_chicago:02_data:02_los-angeles:03_denver:04_kansas-city"/>
+    <file name="problem solving (1).png" crc="418262179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="problem solving.png" crc="399707045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="community (1).png" crc="3834062474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6335_1.jpg" crc="281174292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6335.jpg" crc="4012637513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170905_155937_1.jpg" crc="481821869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170905_155937.jpg" crc="3955307844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="public-transport-beautification_1-crop-u44910.jpg" crc="336476317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="public-transport-beautification-crop-u45030.jpg" crc="431785755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage of madison and state eod.jpg" crc="3957413457" seo="true" ref="01_chicago">
       <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="pasted image 240x240.jpg" crc="4123720895" seo="true" ref="xx_about">
-      <caption webpage="03_denver" alt=""/>
-      <caption webpage="xx_about" alt=""/>
+    <file name="img_4363-crop-u11501.jpg" crc="3812486684" seo="true" ref="01_chicago">
       <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_142137.jpg" crc="3840935859" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+    <file name="pvn-nva_chi-1.svg" crc="4118749794" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_141603.jpg" crc="492118232" seo="true" ref="04_kansas-city">
+    <file name="pvn-nva_chi-1_poster_.png" crc="3938448457" ref="01_chicago"/>
+    <file name="vectors-black_1.svg" crc="4046468857" seo="true" ref="01_chicago:00_city-pages:02_los-angeles:03_denver:04_kansas-city">
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
       <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_145056.jpg" crc="4188892885" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+    <file name="vectors-black_1_poster_.png" crc="130361283" ref="01_chicago"/>
+    <file name="pasted image 417x469127x143.jpg" crc="468466274" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_144924.jpg" crc="4087458105" seo="true" ref="04_kansas-city">
+    <file name="pasted image 70x294.jpg" crc="232328919" seo="true" ref="01_chicago:04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_152357.jpg" crc="354988169" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+    <file name="chicago slides_page_1.jpg" crc="3821828335" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170905_153108.jpg" crc="373651650" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+    <file name="chicago slides_page_2.jpg" crc="108680007" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="20170912_150453.jpg" crc="496277546" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
+    <file name="chicago slides_page_3.jpg" crc="3772606869" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_4.jpg" crc="39952744" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_5.jpg" crc="129454050" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_6.jpg" crc="4060960314" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_7.jpg" crc="214798520" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_8.jpg" crc="350850367" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="chicago slides_page_9.jpg" crc="371027237" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
     </file>
     <file name="jake portrait (1).jpg" crc="263152713" seo="true" ref="xx_about">
       <caption webpage="xx_about" alt=""/>
@@ -101,299 +219,379 @@
     <file name="tannerhyland_photo bw-crop-u13970.jpg" crc="80934577" seo="true" ref="xx_about">
       <caption webpage="xx_about" alt=""/>
     </file>
-    <file name="emma portrait.jpg" crc="4140053213" seo="true" ref="xx_about">
+    <file name="emma portrait.jpg" crc="3930495749" seo="true" ref="xx_about">
       <caption webpage="xx_about" alt=""/>
     </file>
-    <file name="berlin wall project.jpg" crc="4115627448" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="pasted image 240x240.jpg" crc="4123720895" seo="true" ref="xx_about">
+      <caption webpage="xx_about" alt=""/>
     </file>
-    <file name="cupcake atm.jpg" crc="4167641804" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="img_6406-crop-u37476.jpg" crc="4258325962" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="market 1.jpg" crc="4161492420" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="gabriel-santiago-19756-crop-u37490.jpg" crc="87523438" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="the valley.jpg" crc="3801070800" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="photo-1512073490563-2fde3bf833ad-u37483.png" crc="4247748620" ref="00_city-pages"/>
+    <file name="olenka-kotyk-15378-u37278.png" crc="3868369639" ref="00_city-pages"/>
+    <file name="collage of madison and state eod-u37292.png" crc="280466578" ref="00_city-pages"/>
+    <file name="denver-skyline-u37306.png" crc="4117173765" ref="00_city-pages"/>
+    <file name="kansas-city-scout-overlooking-kcmo-opt-u37340.png" crc="3818879387" ref="00_city-pages"/>
+    <file name="transportation-black.svg" crc="432489890" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="bates motel.jpg" crc="3890517365" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="transportation-black_poster_.png" crc="4196251389" ref="00_city-pages"/>
+    <file name="events-black.svg" crc="282131761" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="car sculpture.jpg" crc="4142027393" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="events-black_poster_.png" crc="4217690596" ref="00_city-pages"/>
+    <file name="pursuing-interests-black.svg" crc="4177519752" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="fruit stand.jpg" crc="147879215" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="pursuing-interests-black_poster_.png" crc="64571831" ref="00_city-pages"/>
+    <file name="density-black.svg" crc="4085251234" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="chinatown metro.jpg" crc="461412878" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
+    <file name="density-black_poster_.png" crc="4257012933" ref="00_city-pages"/>
+    <file name="community-black_1.svg" crc="4051655778" seo="true" ref="00_city-pages">
+      <caption webpage="00_city-pages" alt=""/>
+      <caption webpage="00_city-pages" alt=""/>
     </file>
-    <file name="a613dccd8cc882e329e10d7c1ff9a74a.jpg" crc="314913928" seo="true" ref="00_cities">
-      <caption webpage="00_cities" alt=""/>
-    </file>
-    <file name="capture.jpg" crc="4274532359" seo="true" ref="00_cities">
-      <caption webpage="03_denver" alt=""/>
-      <caption webpage="04_kansas-city" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
-      <caption webpage="02_los-angeles" alt=""/>
-      <caption webpage="00_cities" alt=""/>
-    </file>
-    <file name="chicago-river-illinois-buttonu33231-r-fr.jpg" crc="3988906109" ref="00_cities"/>
-    <file name="city-of-la-final-2-buttonu33235-r-fr.jpg" crc="3934919970" ref="00_cities"/>
-    <file name="alumni gathering in denver colorado university advancement-buttonu33233-r-fr.jpg" crc="3791395178" ref="00_cities"/>
-    <file name="kansascity-buttonu33229-r-fr.jpg" crc="4230642127" ref="00_cities"/>
-    <file name="noun_942652_cc.png" crc="332472030" seo="true" ref="01_case-studies">
+    <file name="community-black_1_poster_.png" crc="3898993670" ref="00_city-pages"/>
+    <file name="collage of madison and state eod-buttonu40817-r-fr.jpg" crc="4202050239" ref="00_city-pages"/>
+    <file name="olenka-kotyk-15378-buttonu40821-r-fr.jpg" crc="306409981" ref="00_city-pages"/>
+    <file name="denver-skyline-buttonu40819-r-fr.jpg" crc="4202573785" ref="00_city-pages"/>
+    <file name="kansas-city-scout-overlooking-kcmo-opt-buttonu40815-r-fr.jpg" crc="4090296569" ref="00_city-pages"/>
+    <file name="noun_942652_cc.png" crc="4131530864" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
     <file name="noun_197559_cc-crop-u28547.png" crc="454718222" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_55060_cc.png" crc="316752998" seo="true" ref="01_case-studies">
+    <file name="noun_55060_cc-crop-u28491.png" crc="4272282752" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_22250_cc-u28517.png" crc="4123713969" ref="01_case-studies"/>
-    <file name="noun_53123_cc-u28647.png" crc="466827332" ref="01_case-studies"/>
-    <file name="noun_1119910_cc.png" crc="3939875076" seo="true" ref="01_case-studies">
+    <file name="noun_22250_cc-u28517.png" crc="451787785" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_476744-u28727.png" crc="276320282" ref="01_case-studies"/>
-    <file name="noun_476755-u28737.png" crc="4174897290" ref="01_case-studies"/>
-    <file name="noun_243354_cc.png" crc="409053814" seo="true" ref="01_case-studies">
+    <file name="noun_53123_cc-u28647.png" crc="4245678528" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1187315_cc.png" crc="3974674104" seo="true" ref="01_case-studies">
+    <file name="noun_476744-u28727-crop-u29832.png" crc="219694020" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1026302_cc.png" crc="3794540811" seo="true" ref="01_case-studies">
+    <file name="noun_476755-u28737.png" crc="4174897290" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1371745_cc.png" crc="269068020" seo="true" ref="01_case-studies">
+    <file name="noun_1119910_cc.png" crc="275681086" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_960093_cc.png" crc="10453650" seo="true" ref="01_case-studies">
+    <file name="noun_1187315_cc-crop-u29941.png" crc="524380045" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1285365_cc.png" crc="282953096" seo="true" ref="01_case-studies">
+    <file name="noun_243354_cc.png" crc="3913665087" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1358728_cc.png" crc="517754761" seo="true" ref="01_case-studies">
+    <file name="noun_1026302_cc.png" crc="3811502451" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_295278_cc-crop-u32434.png" crc="11692110" seo="true" ref="01_case-studies">
+    <file name="noun_1371745_cc.png" crc="3896608376" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1018435_cc.png" crc="296665130" seo="true" ref="01_case-studies">
+    <file name="noun_960093_cc.png" crc="3896626409" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_79843_cc.png" crc="3831605375" seo="true" ref="01_case-studies">
+    <file name="noun_1285365_cc.png" crc="209883302" seo="true" ref="01_case-studies">
       <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1157156230x291.png" crc="126515292" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_1358728_cc.png" crc="85195464" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1099521_cc246x246.png" crc="4059209253" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_295278_cc-crop-u32434.png" crc="178447527" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1174876_cc-crop-u38675.png" crc="21893076" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_1018435_cc.png" crc="238398557" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_1158063_cc-crop-u38682.png" crc="339832067" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_79843_cc.png" crc="342481178" seo="true" ref="01_case-studies">
+      <caption webpage="01_case-studies" alt=""/>
     </file>
-    <file name="noun_530878_cc287x287.png" crc="174491120" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="poster.jpg" crc="172694315" seo="true" ref="03_final">
+      <caption webpage="03_final" alt=""/>
     </file>
-    <file name="noun_1143696_cc-crop-u38742.png" crc="3896826545" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_1387071_cc-crop-u30962.png" crc="374691562" seo="true" ref="03_final">
+      <caption webpage="03_final" alt=""/>
     </file>
-    <file name="noun_1155914_cc-crop-u38780.png" crc="4017986450" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_1205109_cc.png" crc="3995646303" seo="true" ref="03_final">
+      <caption webpage="03_final" alt=""/>
     </file>
-    <file name="noun_1154838_cc-crop-u38785.png" crc="4168778166" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
+    <file name="noun_1387071_cc-crop-u31003.png" crc="374691562" seo="true" ref="03_final">
+      <caption webpage="03_final" alt=""/>
     </file>
-    <file name="oxol_archigram.jpg" crc="3782832840" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="noun_555533_cc-crop-u31041.png" crc="4191093033" seo="true" ref="03_final">
+      <caption webpage="03_final" alt=""/>
     </file>
-    <file name="cindy-frewen-300x298.jpg" crc="3810847128" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="data slides_page_01.jpg" crc="30074641" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
     </file>
-    <file name="pr_16791.jpg" crc="4232820545" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="data slides_page_02.jpg" crc="164414264" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
     </file>
-    <file name="img_4363-crop-u37995.jpg" crc="3812486684" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="data slides_page_03.jpg" crc="4233155385" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
     </file>
-    <file name="noun_1157156.png" crc="3982200263" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="data slides_page_04.jpg" crc="3869096881" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
     </file>
-    <file name="noun_1099521_cc.png" crc="289525828" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
+    <file name="data slides_page_05.jpg" crc="4081760314" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
     </file>
-    <file name="pointer_right_b.png" crc="3926956963" seo="true" ref="01_chicago:02_los-angeles:03_denver:04_kansas-city">
+    <file name="data slides_page_06.jpg" crc="89905254" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="data slides_page_07.jpg" crc="4025904130" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="data slides_page_08.jpg" crc="3896422772" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="data slides_page_09.jpg" crc="4292850166" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="data slides_page_10.jpg" crc="68558648" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="data slides_page_11.jpg" crc="336182771" seo="true" ref="02_data">
+      <caption webpage="02_data" alt=""/>
+    </file>
+    <file name="img_4286.jpg" crc="429945489" seo="true" ref="chicago-interventions">
+      <caption webpage="chicago-interventions" alt=""/>
+    </file>
+    <file name="berlin wall project.jpg" crc="4115627448" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="cupcake atm.jpg" crc="4167641804" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="market 1.jpg" crc="4161492420" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="venice graffiti-crop-u33837.jpg" crc="242525500" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="car sculpture.jpg" crc="4142027393" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="fruit stand.jpg" crc="147879215" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="chinatown metro.jpg" crc="461412878" seo="true" ref="la-interventions">
+      <caption webpage="la-interventions" alt=""/>
+    </file>
+    <file name="img_6343.jpg" crc="77002866" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="img_6402.jpg" crc="185113978" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="img_6415.jpg" crc="4218795470" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="img_6382.jpg" crc="95778195" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="ez10.png" crc="405385117" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="img_6461.jpg" crc="445539662" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="img_6432.jpg" crc="4233887353" seo="true" ref="denver-interventions">
+      <caption webpage="denver-interventions" alt=""/>
+    </file>
+    <file name="20170905_142137.jpg" crc="3840935859" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170905_141603.jpg" crc="492118232" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170905_142930-crop-u35682.jpg" crc="4000974986" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170905_145056.jpg" crc="4188892885" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170905_144924.jpg" crc="4087458105" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170912_150550-crop-u35702.jpg" crc="4113037277" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="20170912_150453.jpg" crc="496277546" seo="true" ref="kc-interventions">
+      <caption webpage="kc-interventions" alt=""/>
+    </file>
+    <file name="olenka-kotyk-15378.jpg" crc="43417313" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="wings-crop-u33594.jpg" crc="4101712873" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="bates motel.jpg" crc="3890517365" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="the valley.jpg" crc="3801070800" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="pvn-nva_la.svg" crc="497182252" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="pvn-nva_la_poster_.png" crc="3770717477" ref="02_los-angeles"/>
+    <file name="transportation.png" crc="4135000405" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="person.png" crc="4158976436" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="education.png" crc="3794313230" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="analog.png" crc="269221988" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="indistry.png" crc="3812191091" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_1.jpg" crc="3771498398" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_2.jpg" crc="191470299" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_3.jpg" crc="183758124" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_4.jpg" crc="3984278946" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_5.jpg" crc="439636251" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="la slides_page_6.jpg" crc="37401794" seo="true" ref="02_los-angeles">
+      <caption webpage="02_los-angeles" alt=""/>
+    </file>
+    <file name="denver-skyline.jpg" crc="3904164681" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
-      <caption webpage="04_kansas-city" alt=""/>
-      <caption webpage="02_los-angeles" alt=""/>
-      <caption webpage="01_chicago" alt=""/>
     </file>
-    <file name="graveyard.png" crc="337182849" seo="true" ref="obsolete-infrastructure">
-      <caption webpage="obsolete-infrastructure" alt=""/>
-    </file>
-    <file name="wifi hotspot.png" crc="288258235" seo="true" ref="obsolete-infrastructure">
-      <caption webpage="obsolete-infrastructure" alt=""/>
-    </file>
-    <file name="phone graphic.png" crc="4048318506" seo="true" ref="obsolete-infrastructure">
-      <caption webpage="obsolete-infrastructure" alt=""/>
-    </file>
-    <file name="array of things.png" crc="3860684751" seo="true" ref="obsolete-infrastructure">
-      <caption webpage="obsolete-infrastructure" alt=""/>
-    </file>
-    <file name="among robots wide.jpg" crc="432447691" seo="true" ref="robotic-take-over">
-      <caption webpage="robotic-take-over" alt=""/>
-    </file>
-    <file name="robo man normal.png" crc="274184152" seo="true" ref="robotic-take-over">
-      <caption webpage="robotic-take-over" alt=""/>
-      <caption webpage="robotic-take-over" alt=""/>
-      <caption webpage="robotic-take-over" alt=""/>
-      <caption webpage="robotic-take-over" alt=""/>
-    </file>
-    <file name="mini among robots.png" crc="3992641121" seo="true" ref="robotic-take-over">
-      <caption webpage="robotic-take-over" alt=""/>
-    </file>
-    <file name="city green.png" crc="403728097" seo="true" ref="robotic-take-over">
-      <caption webpage="robotic-take-over" alt=""/>
-    </file>
-    <file name="670710_6_378d_peter-cook-archigram-instant-city-visits.jpg" crc="231473878" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="rjr_headshot_(1)-crop-u34891.jpg" crc="4158372128" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="person_grey_192x192-crop-u34905.png" crc="3871534541" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="noun_1174876_cc-crop-u34932.png" crc="3933094157" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="noun_1158063_cc-crop-u34929.png" crc="4291020284" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="venice graffiti-crop-u37053.jpg" crc="242525500" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="wings-crop-u37006.jpg" crc="4101712873" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="558c509fb491d.jpg" crc="147996897" seo="true" ref="03_denver">
+    <file name="img_6363.jpg" crc="3847693877" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="person_grey_192x192-crop-u35253.png" crc="3871534541" seo="true" ref="03_denver">
+    <file name="img_6406.jpg" crc="331117422" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="noun_530878_cc.png" crc="201102832" seo="true" ref="03_denver">
+    <file name="pvn-nva_dv.svg" crc="338984222" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="noun_1143696_cc-crop-u35188.png" crc="291502871" seo="true" ref="03_denver">
+    <file name="pvn-nva_dv_poster_.png" crc="4240473910" ref="03_denver"/>
+    <file name="streets-crop-u35255.jpg" crc="527160552" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="c214c43cd5485c47868cf2326fcb61b5-crop-u35524.jpg" crc="4124035486" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="person_grey_192x192-crop-u35473.png" crc="3871534541" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="20170905_142930-crop-u37784.jpg" crc="4000974986" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="noun_1155914_cc-crop-u35537.png" crc="4292654849" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="noun_1154838_cc-crop-u35531.png" crc="3983761034" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="20170905_161943-crop-u37812.jpg" crc="4060738228" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="20170912_150550.jpg" crc="3923023444" seo="true" ref="04_kansas-city">
-      <caption webpage="04_kansas-city" alt=""/>
-    </file>
-    <file name="noun_1174870_cc.png" crc="408046452" seo="true" ref="02_proposals">
-      <caption webpage="02_proposals" alt=""/>
-    </file>
-    <file name="chart.jpg" crc="244098464" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
-    </file>
-    <file name="chart (1).jpg" crc="4194155172" seo="true" ref="01_chicago">
-      <caption webpage="01_chicago" alt=""/>
-    </file>
-    <file name="chart (2).jpg" crc="3934191097" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="chart (3).jpg" crc="4152352876" seo="true" ref="02_los-angeles">
-      <caption webpage="02_los-angeles" alt=""/>
-    </file>
-    <file name="chart (6).jpg" crc="162034745" seo="true" ref="03_denver">
+    <file name="img_6400-crop-u35358.jpg" crc="4122607999" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="chart (7).jpg" crc="4001040968" seo="true" ref="03_denver">
+    <file name="img_6406-crop-u35364.jpg" crc="536087757" seo="true" ref="03_denver">
       <caption webpage="03_denver" alt=""/>
     </file>
-    <file name="rashid_06017-crop-u35483.jpg" crc="4214307115" seo="true" ref="04_kansas-city">
+    <file name="img_6412-crop-u35367.jpg" crc="6180300" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4293695800" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3765608371" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4206040466" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_1.jpg" crc="4067631303" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_2.jpg" crc="35783937" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_3.jpg" crc="3985437058" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_4.jpg" crc="3923430176" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_5.jpg" crc="4226119380" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="denver_page_6.jpg" crc="378899336" seo="true" ref="03_denver">
+      <caption webpage="03_denver" alt=""/>
+    </file>
+    <file name="kansas-city-scout-overlooking-kcmo-opt.jpg" crc="176887828" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="chart (4).jpg" crc="38337576" seo="true" ref="04_kansas-city">
+    <file name="20170905_152357.jpg" crc="354988169" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="chart (5).jpg" crc="443161743" seo="true" ref="04_kansas-city">
+    <file name="20170905_161943-crop-u35579.jpg" crc="4060738228" seo="true" ref="04_kansas-city">
       <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="among robots wide-crop-u39627.jpg" crc="143142877" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="20170905_153108.jpg" crc="373651650" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="future-20of-20cars-20redesign-20our-20cities-crop-u39649.jpg" crc="3979235178" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="pvn-nva_kc.svg" crc="411590511" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="4188-crop-u39672.jpg" crc="1516320" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="pvn-nva_kc_poster_.png" crc="4225093440" ref="04_kansas-city"/>
+    <file name="pasted image 417x46986x136.jpg" crc="3845264785" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="45100312-crop-u39708.jpg" crc="300443403" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="pasted image 417x469.jpg" crc="468466274" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="chicago_terrain_lines.png" crc="213583495" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="pic.jpg" crc="4217318885" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="street one.jpg" crc="368174277" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_1.jpg" crc="57384785" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="street two.jpg" crc="3907950277" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_2.jpg" crc="371466440" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="street 2222.jpg" crc="79781388" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_3.jpg" crc="337354709" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="street 3 b.jpg" crc="211217972" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_4.jpg" crc="3879748226" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="street three a.jpg" crc="267352092" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_5.jpg" crc="4097638154" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
-    <file name="graph.jpg" crc="3814523471" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
-    </file>
-    <file name="graappphh.jpg" crc="4006380244" seo="true" ref="max">
-      <caption webpage="max" alt=""/>
+    <file name="kc slides_page_6.jpg" crc="3849762401" seo="true" ref="04_kansas-city">
+      <caption webpage="04_kansas-city" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4149250245" seo="true" mt="1510080827391" redirect="true"/>
-  <file name="01_chicago.html" crc="4168112067" seo="true" mt="1510086075879" redirect="true"/>
-  <file name="03_denver.html" crc="4131878153" seo="true" mt="1510086424809" redirect="true"/>
-  <file name="04_kansas-city.html" crc="3787647408" seo="true" mt="1510086251406" redirect="true"/>
-  <file name="xx_about.html" crc="285274936" seo="true" mt="1510076733958" redirect="true"/>
-  <file name="02_los-angeles.html" crc="199692130" seo="true" mt="1510086168112" redirect="true"/>
-  <file name="00_cities.html" crc="4005374898" seo="true" mt="1510076733958" redirect="true"/>
-  <file name="01_case-studies.html" crc="13755830" seo="true" mt="1510076883733" redirect="true"/>
-  <file name="02_proposals.html" crc="468630239" seo="true" mt="1510088104394" redirect="true"/>
-  <file name="obsolete-infrastructure.html" crc="3778815847" seo="true" mt="1510076733958" redirect="true"/>
-  <file name="robotic-take-over.html" crc="4128517050" seo="true" mt="1510076733958" redirect="true"/>
-  <file name="max.html" crc="3947842944" seo="true" mt="1510084060336" redirect="true"/>
+  <file name="index.html" crc="4194097473" seo="true" mt="1513982640397" redirect="true"/>
+  <file name="01_chicago.html" crc="4189258151" seo="true" mt="1513979604362" redirect="true"/>
+  <file name="xx_about.html" crc="3760449293" seo="true" mt="1513985325701" redirect="true"/>
+  <file name="00_city-pages.html" crc="3851726481" seo="true" mt="1513985391682" redirect="true"/>
+  <file name="01_case-studies.html" crc="4083505291" seo="true" mt="1513980517123" redirect="true"/>
+  <file name="03_final.html" crc="45181682" seo="true" mt="1513980778651" redirect="true"/>
+  <file name="02_data.html" crc="533916967" seo="true" mt="1513982851792" redirect="true"/>
+  <file name="chicago-interventions.html" crc="4114010929" seo="true" mt="1513983908205" redirect="true"/>
+  <file name="la-interventions.html" crc="3809246322" seo="true" mt="1513983924628" redirect="true"/>
+  <file name="denver-interventions.html" crc="218473867" seo="true" mt="1513983865167" redirect="true"/>
+  <file name="kc-interventions.html" crc="3970010070" seo="true" mt="1513983986200" redirect="true"/>
+  <file name="02_los-angeles.html" crc="417495883" seo="true" mt="1513983788130" redirect="true"/>
+  <file name="03_denver.html" crc="3991965989" seo="true" mt="1513984802569" redirect="true"/>
+  <file name="04_kansas-city.html" crc="361696415" seo="true" mt="1513983596663" redirect="true"/>
 </manifest>
